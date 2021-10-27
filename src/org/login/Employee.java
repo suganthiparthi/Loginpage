@@ -8,6 +8,8 @@ public static void main(String[] args) {
 	System.out.println("git practice");
 	System.out.println("dfguiofghj");
 	System.out.println("fghjk");
+	System.out.println("git practice");
+	System.out.println("dfguiofghj
 }
 	
 }
